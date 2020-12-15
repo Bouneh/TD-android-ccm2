@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CCM2-TD-Android-INSSET</string>
+    <string name="nom_prenom">Lamoureux Fabien</string>
+    <string name="afficher_maps">Afficher la carte</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Se connecter ou s\'enregistrer</string>
+    <string name="action_sign_in_short">Se connecter</string>
+    <string name="welcome">"Bienvenue !"</string>
+    <string name="invalid_username">Votre nom d\'utilisateur n\'est pas valide</string>
+    <string name="invalid_password">Votre mot de passe doit être supérieur à 5 caractères</string>
+    <string name="login_failed">"Echec de la connexion"</string>
+    <string name="login_offline">Se déconnecter</string>
+    <string name="nom_recyclerview">Afficher le recycler view</string>
+    <string name="nombtnadd">Ajouter</string>
+</resources>

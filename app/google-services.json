@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "424132961219",
+    "project_id": "td-android-ccm2-insset",
+    "storage_bucket": "td-android-ccm2-insset.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424132961219:android:b4173156f0cdb597bf1376",
+        "android_client_info": {
+          "package_name": "com.lamoureux.ccm2_td_android_insset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424132961219-ckbrindaalftaqk4h57nb3ca8288li28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lamoureux.ccm2_td_android_insset",
+            "certificate_hash": "5265a9608c1ceae3f5d2bdc45942ccac47bcd896"
+          }
+        },
+        {
+          "client_id": "424132961219-v7fmuc2nm1ckvrqn74vc1i2rjsd74ho6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcCexQpBa7uvg5MDGv8_b6YxDV9OFtfBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424132961219-v7fmuc2nm1ckvrqn74vc1i2rjsd74ho6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
